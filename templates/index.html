@@ -120,7 +120,8 @@
                     <img src="{{ choice1[1] }}" alt="{{ choice1[0] }}">
                     <info>{{ choice1[2] }}</info>
                     <form action="/choose" method="post" id="form1">
-                        <input type="hidden" name="choice" value="{{ choice1[0] }}">
+                        <input type="hidden" name="choice+" value="{{ choice1[3] }}">
+                        <input type="hidden" name="choice-" value="{{ choice2[3] }}">
                         <input type="hidden" name="count" value="{{ count }}">
                         <button type="submit">Выбрать</button>
                     </form>
@@ -136,7 +137,8 @@
                     <img src="{{ choice2[1] }}" alt="{{ choice2[0] }}">
                     <info>{{ choice2[2] }}</info>
                     <form action="/choose" method="post" id="form2">
-                        <input type="hidden" name="choice" value="{{ choice2[0] }}">
+                        <input type="hidden" name="choice+" value="{{ choice2[3] }}">
+                        <input type="hidden" name="choice-" value="{{ choice1[3] }}">
                         <input type="hidden" name="count" value="{{ count }}">
                         <button type="submit">Выбрать</button>
                     </form>
