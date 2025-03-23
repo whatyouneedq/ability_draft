@@ -1,0 +1,3 @@
+tag: Spawn Spiderite
+name: Spawn Spiderite
+title: Заражает жертву атаками. Если она умрет, из трупа появятся несколько паучат.

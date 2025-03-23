@@ -1,0 +1,3 @@
+tag: Invisibility
+name: Invisibility
+title: Пока волк не атакует, он невидим.

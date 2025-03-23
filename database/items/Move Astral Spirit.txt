@@ -1,0 +1,3 @@
+tag: Move Astral Spirit
+name: Move Astral Spirit
+title: Направляет духа в указанную точку.

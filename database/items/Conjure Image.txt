@@ -1,0 +1,3 @@
+tag: Conjure Image
+name: Conjure Image
+title: Создает иллюзию героя, которая наносит урон.

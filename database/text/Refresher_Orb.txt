@@ -1,0 +1,3 @@
+tag: Refresher_Orb
+name: Refresher Orb
+title: Могущественный артефакт, созданный для магов.

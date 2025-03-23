@@ -1,0 +1,3 @@
+tag: Return Astral Spirit
+name: Return Astral Spirit
+title: Возвращает духа обратно к герою.

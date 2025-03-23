@@ -1,0 +1,3 @@
+tag: Song of the Siren End
+name: Song of the Siren End
+title: Пробудить врагов ото сна, что снова сделает их уязвимыми.

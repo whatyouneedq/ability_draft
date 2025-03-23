@@ -1,0 +1,3 @@
+tag: Rubick
+name: Rubick
+title: «Хотел бы я творить как мой отец когда-то.»

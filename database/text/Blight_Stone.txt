@@ -1,0 +1,3 @@
+tag: Blight_Stone
+name: Blight Stone
+title: Лишающий стойкости камень, обнаруженный на полях Вечной бойни.

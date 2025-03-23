@@ -1,0 +1,3 @@
+tag: Disruptor
+name: Disruptor
+title: «Громы и молнии подвластны моему слову.»

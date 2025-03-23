@@ -1,0 +1,3 @@
+tag: Eject
+name: Eject
+title: Извергнуть проглоченного героя.

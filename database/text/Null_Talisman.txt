@@ -1,0 +1,3 @@
+tag: Null_Talisman
+name: Null Talisman
+title: Небольшой драгоценный камень на нескольких цепочках.

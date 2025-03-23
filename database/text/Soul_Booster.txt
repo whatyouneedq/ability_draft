@@ -1,0 +1,3 @@
+tag: Soul_Booster
+name: Soul Booster
+title: Возвращает былую отвагу.

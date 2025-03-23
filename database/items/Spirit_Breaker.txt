@@ -1,0 +1,3 @@
+tag: Spirit_Breaker
+name: Spirit Breaker
+title: «Я сломлю их дух и хребты.»

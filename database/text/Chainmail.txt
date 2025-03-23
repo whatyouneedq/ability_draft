@@ -1,0 +1,3 @@
+tag: Chainmail
+name: Chainmail
+title: Металлическая кольчуга средней прочности.

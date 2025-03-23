@@ -1,0 +1,3 @@
+tag: Stop Freezing Field
+name: Stop Freezing Field
+title: Немедленно прекращает действие ульты.

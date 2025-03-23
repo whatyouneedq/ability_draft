@@ -1,0 +1,3 @@
+tag: Necrophos
+name: Necrophos
+title: «Умри молодым, стань гноящимся трупом.»

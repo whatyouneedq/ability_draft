@@ -1,0 +1,3 @@
+tag: Windranger
+name: Windranger
+title: «Не попадаешь сразу - встань ближе и попробуй снова.»

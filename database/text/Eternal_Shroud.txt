@@ -1,0 +1,3 @@
+tag: Eternal_Shroud
+name: Eternal Shroud
+title: Этот безупречный капюшон поглощает раздор, чтобы наполнить владельца силами.

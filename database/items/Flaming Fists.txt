@@ -1,0 +1,3 @@
+tag: Flaming Fists
+name: Flaming Fists
+title: Наносит дополнительный урон врагам вокруг цели атаки.

@@ -1,0 +1,3 @@
+tag: Healing_Salve
+name: Healing Salve
+title: Магическая мазь, которая может быстро исцелить даже самые глубокие раны.

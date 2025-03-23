@@ -1,0 +1,3 @@
+tag: Geminate Attack
+name: Geminate Attack
+title: Позволяет герою совершить несколько атак одновременно.

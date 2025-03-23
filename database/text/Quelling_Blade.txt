@@ -1,0 +1,3 @@
+tag: Quelling_Blade
+name: Quelling Blade
+title: Топор павшего гнома, позволяющий с лёгкостью продираться сквозь лес.

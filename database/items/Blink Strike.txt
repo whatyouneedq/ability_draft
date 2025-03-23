@@ -1,0 +1,3 @@
+tag: Blink Strike
+name: Blink Strike
+title: Герой телепортируется за спину цели и, если это враг, наносит ему урон.

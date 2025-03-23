@@ -1,0 +1,3 @@
+tag: Shadow_Demon
+name: Shadow Demon
+title: «This time it is the demon who will do the summoning!»

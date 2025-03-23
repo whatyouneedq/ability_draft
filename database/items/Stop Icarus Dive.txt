@@ -1,0 +1,3 @@
+tag: Stop Icarus Dive
+name: Stop Icarus Dive
+title: ћгновенно прерывает полет.

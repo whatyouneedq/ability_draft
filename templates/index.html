@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ability draft</title>
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+    <style>
+        body {
+            background-color: #121212;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            transform: scale(1.7);
+            margin-bottom: 20px;
+            top: 300px;
+        }
+        h2 {
+            text-align: center;
+        }
+        .choices-container {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            max-width: 800px;
+            padding: 0 20px;
+        }
+        .card {
+            width: 240px;
+            height: 360px;
+            perspective: 1000px;
+            margin: 10x;
+        }
+        .card:hover {
+            transform: scale(1.05);
+        }
+        .card-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+        }
+        .card.flip .card-inner {
+            transform: rotateY(360deg);
+        }
+        .card-front, .card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            text-align: center;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            border: 1px solid #444;
+            border-radius: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .card-front {
+            background-color: #1c1c1c;
+        }
+        .card-back {
+            background-color: #2e2e2e;
+            transform: rotateY(180deg);
+        }
+        img {
+            text-align: center;
+            max-width: 80%;
+            max-height: 150px;
+            margin-bottom: 10px;
+            position: relative;
+            top: -10px;
+            border-radius: 20px;
+        }
+        info {
+            text-align: center;
+            margin: 10px;
+            top: -20px;
+            position: relative;
+        }
+        button {
+            position: relative;
+            align-items: flex-end;
+            background-color: #0f0f0f;
+            color: white;
+            border: none;
+            border-radius: 20px;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 1.5em;
+            top: -15px;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #666;
+        }
+        p {
+            justify-content: space-between;
+            top: -150px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="title"><br>Что круче?</h1>
+    <div class="choices-container" id="choices-container">
+        <div class="card" id="card1">
+            <div class="card-inner">
+                <div class="card-front">
+                    <h2>{{ choice1[0] }}</h2>
+                    <img src="{{ choice1[1] }}" alt="{{ choice1[0] }}">
+                    <info>{{ choice1[2] }}</info>
+                    <form action="/choose" method="post" id="form1">
+                        <input type="hidden" name="choice" value="{{ choice1[0] }}">
+                        <input type="hidden" name="count" value="{{ count }}">
+                        <button type="submit">Выбрать</button>
+                    </form>
+                </div>
+                <div class="card-back">
+                </div>
+            </div>
+        </div>
+        <div class="card" id="card2">
+            <div class="card-inner">
+                <div class="card-front">
+                    <h2>{{ choice2[0] }}</h2>
+                    <img src="{{ choice2[1] }}" alt="{{ choice2[0] }}">
+                    <info>{{ choice2[2] }}</info>
+                    <form action="/choose" method="post" id="form2">
+                        <input type="hidden" name="choice" value="{{ choice2[0] }}">
+                        <input type="hidden" name="count" value="{{ count }}">
+                        <button type="submit">Выбрать</button>
+                    </form>
+                </div>
+                <div class="card-back">
+                </div>
+            </div>
+        </div>
+    </div>
+    <p id="count-text">Вы сделали выбор: {{ count }} раз</p>
+
+    <script>
+        // Функция для добавления обработчиков событий к формам
+        function addFormEventListeners() {
+            document.querySelectorAll('form').forEach(form => {
+                form.removeEventListener('submit', handleFormSubmit); // Удаляем предыдущий обработчик
+                form.addEventListener('submit', handleFormSubmit); // Добавляем новый обработчик
+            });
+        }
+
+        // Обработчик отправки формы
+        function handleFormSubmit(event) {
+            event.preventDefault(); // Отменяем стандартное поведение формы
+
+            const card = this.closest('.card');
+            card.classList.add('flip'); // Добавляем класс для анимации переворота
+
+            // Ждем завершения анимации
+            setTimeout(() => {
+                const formData = new FormData(this);
+                const actionUrl = this.action;
+
+                // Отправляем данные формы с помощью fetch
+                fetch(actionUrl, {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.text())
+                .then(data => {
+                    // Обновляем карточки после завершения анимации
+                    const container = document.body;
+                    container.innerHTML = data; // Обновляем содержимое контейнера
+
+                    // Обновляем текст выбора
+                    const countText = document.getElementById('count-text');
+                    const newCount = String(Number(formData.get('count'))+1); // Получаем новое значение count
+                    const lastChar = newCount.charAt(newCount.length - 1);
+                    const secondLastChar = newCount.charAt(newCount.length - 2);
+                    if ((lastChar === '2' || lastChar === '3' || lastChar === '4') && secondLastChar !== '1') {
+                        countText.textContent = `Вы сделали выбор: ${(newCount)} раза`; // Обновляем текстchoose
+                    } else {
+                        countText.textContent = `Вы сделали выбор: ${(newCount)} раз`; // Обновляем текст
+                    }
+
+
+                    // Добавляем обработчики событий к новым формам
+                    addFormEventListeners();
+
+                })
+                .catch(error => console.error('Ошибка:', error));
+            }, 600); // Задержка 600 мс, чтобы соответствовать времени анимации
+        }
+
+        // Инициализация обработчиков событий при загрузке страницы
+        addFormEventListeners();
+    </script>
+</body>
+</html>

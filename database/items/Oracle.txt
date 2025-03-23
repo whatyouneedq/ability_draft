@@ -1,0 +1,3 @@
+tag: Oracle
+name: Oracle
+title: «I cannot be held responsible for all the outcomes.»

@@ -1,0 +1,3 @@
+tag: Moon_Shard
+name: Moon Shard
+title: Говорят, что это слеза Селемине — богини Луны.

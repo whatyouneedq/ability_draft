@@ -1,0 +1,3 @@
+tag: Force_Staff
+name: Force Staff
+title: Позволяет вам манипулировать другими ради добра или зла.

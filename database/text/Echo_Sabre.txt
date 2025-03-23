@@ -1,0 +1,3 @@
+tag: Echo_Sabre
+name: Echo Sabre
+title: Обманчиво быстрый клинок, полный магии звука.

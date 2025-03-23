@@ -1,0 +1,3 @@
+tag: Reverse Time Walk
+name: Reverse Time Walk
+title: Эту способность можно применить в течение 1,5 сек. после Time Walk, чтобы вернуться на прежнюю позицию. Возвращение не влияет на здоровье героя и не применяет на врагов Time Lock от Aghanim's Scepter.

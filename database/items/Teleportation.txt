@@ -1,0 +1,3 @@
+tag: Teleportation
+name: Teleportation
+title: Телепортирует в любую точку карты.

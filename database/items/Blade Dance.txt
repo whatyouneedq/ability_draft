@@ -1,0 +1,3 @@
+tag: Blade Dance
+name: Blade Dance
+title: ƒает герою шанс нанести атакой критический урон.

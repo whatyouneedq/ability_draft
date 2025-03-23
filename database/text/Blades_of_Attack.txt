@@ -1,0 +1,3 @@
+tag: Blades_of_Attack
+name: Blades of Attack
+title: Ќе стоит недооценивать опасность этих маленьких незаметных клинков.

@@ -1,0 +1,3 @@
+tag: Helm_of_Iron_Will
+name: Helm of Iron Will
+title: Шлем легендарного воина, павшего в битве.

@@ -1,0 +1,3 @@
+tag: Black_King_Bar
+name: Black King Bar
+title: Мощный посох, наделенный силой гигантов.

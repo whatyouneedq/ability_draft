@@ -1,0 +1,3 @@
+tag: Telekinesis Land
+name: Telekinesis Land
+title: Указывает место, в которое цель приземлится после окончания действия Telekinesis.

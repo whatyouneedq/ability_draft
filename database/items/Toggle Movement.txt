@@ -1,0 +1,3 @@
+tag: Toggle Movement
+name: Toggle Movement
+title: Включает медленное передвижение вперёд во время действия Sun Ray.

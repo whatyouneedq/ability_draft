@@ -1,0 +1,3 @@
+tag: Solar Guardian Land
+name: Solar Guardian Land
+title: Для этой способности нет описания.

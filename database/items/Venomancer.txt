@@ -1,0 +1,3 @@
+tag: Venomancer
+name: Venomancer
+title: «In the Acid Jungles of Jidi, I was but a minor inconvenience. Here, the slightest whiff of venom sends them screaming.»

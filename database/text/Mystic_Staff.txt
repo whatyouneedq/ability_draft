@@ -1,0 +1,3 @@
+tag: Mystic_Staff
+name: Mystic Staff
+title: Загадочный посох, сделанный исключительно из дорогих кристаллов.

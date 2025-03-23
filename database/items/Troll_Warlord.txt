@@ -1,0 +1,3 @@
+tag: Troll_Warlord
+name: Troll Warlord
+title: «The strong shall eat the weak.»

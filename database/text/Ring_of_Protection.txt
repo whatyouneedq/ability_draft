@@ -1,0 +1,3 @@
+tag: Ring_of_Protection
+name: Ring of Protection
+title: Мерцающее кольцо, защищающее своего носителя.

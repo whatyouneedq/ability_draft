@@ -1,0 +1,3 @@
+tag: Breathe Fire
+name: Breathe Fire
+title: Извергает огненное дыхание на вражеских юнитов в линии перед Dragon Knight, поджигая их и уменьшая урон от их атак.

@@ -1,0 +1,3 @@
+tag: Legion_Commander
+name: Legion Commander
+title: «Они хотят войну? Они ее получат!»

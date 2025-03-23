@@ -1,0 +1,3 @@
+tag: Revenant%27s_Brooch
+name: Revenant%27s Brooch
+title: Проклятая брошь павшего стража, блуждающего меж завесами жизни и смерти.

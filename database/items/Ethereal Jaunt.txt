@@ -1,0 +1,3 @@
+tag: Ethereal Jaunt
+name: Ethereal Jaunt
+title: Перемещает героя к шару от способности Illusory Orb.

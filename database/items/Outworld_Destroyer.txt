@@ -1,0 +1,3 @@
+tag: Outworld_Destroyer
+name: Outworld Destroyer
+title: «Сокрушу я врага разум, как и волю его к победе.»

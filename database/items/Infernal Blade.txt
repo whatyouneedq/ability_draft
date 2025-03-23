@@ -1,0 +1,3 @@
+tag: Infernal Blade
+name: Infernal Blade
+title: Для этой способности нет описания.

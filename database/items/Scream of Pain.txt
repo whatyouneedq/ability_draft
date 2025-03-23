@@ -1,0 +1,3 @@
+tag: Scream of Pain
+name: Scream of Pain
+title: Герой издаёт пронзительный вопль, нанося урон всем врагам поблизости.

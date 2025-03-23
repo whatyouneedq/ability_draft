@@ -1,0 +1,3 @@
+tag: Tinker
+name: Tinker
+title: «I hope someday I'll run into another survivor of the Violet Plateau Incident, but it's not looking promising.»

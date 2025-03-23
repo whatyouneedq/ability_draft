@@ -1,0 +1,3 @@
+tag: Become Universal
+name: Become Universal
+title: Меняет основной атрибут Viper на Универсальный.

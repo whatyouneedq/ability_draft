@@ -1,0 +1,3 @@
+tag: Desolator
+name: Desolator
+title: Этим нечистым оружием пытали политических преступников.

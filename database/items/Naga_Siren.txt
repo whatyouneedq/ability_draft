@@ -1,0 +1,3 @@
+tag: Naga_Siren
+name: Naga Siren
+title: «I sing the Siren song of war»

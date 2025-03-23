@@ -1,0 +1,3 @@
+tag: Mortal Strike
+name: Mortal Strike
+title: ѕозвол€ет нанести атакой дополнительный урон.

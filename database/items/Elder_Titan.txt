@@ -1,0 +1,3 @@
+tag: Elder_Titan
+name: Elder Titan
+title: «It is only right that I am cast into this world, for I had a hand in breaking it.»

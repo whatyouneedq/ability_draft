@@ -1,0 +1,489 @@
+Выбор 1: 
+Выбор 1: Acorn Shot
+Выбор 1: Activate Fire Remnant
+Выбор 2: Abaddon
+Выбор 3: 
+Выбор 4: 
+Выбор 1: Abaddon
+Выбор 1: Acid Spray
+Выбор 1: Acorn Shot
+Выбор 2: Acorn Shot
+Выбор 3: Activate Fire Remnant
+Выбор 4: Abaddon
+Выбор 5: Acorn Shot
+Выбор 6: Acorn Shot
+Выбор 7: Abaddon
+Выбор 8: Activate Fire Remnant
+Выбор 9: Abaddon
+Выбор 10: Acorn Shot
+Выбор 11: Acid Spray
+Выбор 12: Acorn Shot
+Выбор 13: Abaddon
+Выбор 14: Abaddon
+Выбор 15: Acorn Shot
+Выбор 16: Acid Spray
+Выбор 17: Acid Spray
+Выбор 18: Acid Spray
+Выбор 19: Activate Fire Remnant
+Выбор 20: Acid Spray
+Выбор 21: Activate Fire Remnant
+Выбор 22: Acorn Shot
+Выбор 23: Acorn Shot
+Выбор 1: Acid Spray
+Выбор 2: Acorn Shot
+Выбор 3: Acorn Shot
+Выбор 4: Activate Fire Remnant
+Выбор 5: Acorn Shot
+Выбор 1: Acid Spray
+Выбор 2: Acorn Shot
+Выбор 1: Activate Fire Remnant
+Выбор 2: Activate Fire Remnant
+Выбор 3: Activate Fire Remnant
+Выбор 4: Abaddon
+Выбор 5: Activate Fire Remnant
+Выбор 6: Acid Spray
+Выбор 7: Abaddon
+Выбор 8: Acid Spray
+Выбор 9: Activate Fire Remnant
+Выбор 10: Acorn Shot
+Выбор 11: Acid Spray
+Выбор 12: Activate Fire Remnant
+Выбор 13: Activate Fire Remnant
+Выбор 1: Abaddon
+Выбор 2: Acorn Shot
+Выбор 3: Acorn Shot
+Выбор 1: Acid Spray
+Выбор 2: Acorn Shot
+Выбор 3: Activate Fire Remnant
+Выбор 4: Activate Fire Remnant
+Выбор 5: Acid Spray
+Выбор 1: Activate Fire Remnant
+Выбор 2: Abaddon
+Выбор 3: Abaddon
+Выбор 4: Acid Spray
+Выбор 5: Activate Fire Remnant
+Выбор 6: Activate Fire Remnant
+Выбор 1: Abaddon
+Выбор 1: Acorn Shot
+Выбор 2: Activate Fire Remnant
+Выбор 3: Acid Spray
+Выбор 4: Activate Fire Remnant
+Выбор 5: Acorn Shot
+Выбор 6: Activate Fire Remnant
+Выбор 7: Abaddon
+Выбор 8: Acorn Shot
+Выбор 9: Abaddon
+Выбор 10: Acorn Shot
+Выбор 11: Abaddon
+Выбор 12: Abaddon
+Выбор 13: Abaddon
+Выбор 14: Acorn Shot
+Выбор 15: Acorn Shot
+Выбор 16: Acid Spray
+Выбор 17: Activate Fire Remnant
+Выбор 18: Acid Spray
+Выбор 19: Abaddon
+Выбор 20: Activate Fire Remnant
+Выбор 21: Abaddon
+Выбор 22: Abaddon
+Выбор 1: Abaddon
+Выбор 2: Acorn Shot
+Выбор 3: Acid Spray
+Выбор 4: Acorn Shot
+Выбор 5: Abaddon
+Выбор 6: Acorn Shot
+Выбор 7: Abaddon
+Выбор 8: Acorn Shot
+Выбор 9: Activate Fire Remnant
+Выбор 10: Acorn Shot
+Выбор 11: Activate Fire Remnant
+Выбор 12: Acid Spray
+Выбор 13: Acorn Shot
+Выбор 14: Acid Spray
+Выбор 15: Acorn Shot
+Выбор 16: Acid Spray
+Выбор 17: Activate Fire Remnant
+Выбор 18: Activate Fire Remnant
+Выбор 19: Acorn Shot
+Выбор 20: Activate Fire Remnant
+Выбор 21: Acorn Shot
+Выбор 22: Acorn Shot
+Выбор 23: Acorn Shot
+Выбор 24: Activate Fire Remnant
+Выбор 25: Activate Fire Remnant
+Выбор 26: Acid Spray
+Выбор 27: Acid Spray
+Выбор 28: Acorn Shot
+Выбор 29: Acorn Shot
+Выбор 30: Acid Spray
+Выбор 31: Activate Fire Remnant
+Выбор 32: Abaddon
+Выбор 33: Acorn Shot
+Выбор 34: Abaddon
+Выбор 35: Abaddon
+Выбор 36: Abaddon
+Выбор 37: Acid Spray
+Выбор 38: Activate Fire Remnant
+Выбор 39: Activate Fire Remnant
+Выбор 40: Abaddon
+Выбор 41: Acorn Shot
+Выбор 42: Abaddon
+Выбор 43: Acid Spray
+Выбор 44: Abaddon
+Выбор 45: Acid Spray
+Выбор 46: Acorn Shot
+Выбор 47: Acorn Shot
+Выбор 48: Acorn Shot
+Выбор 49: Abaddon
+Выбор 50: Acid Spray
+Выбор 51: Acorn Shot
+Выбор 52: Abaddon
+Выбор 53: Abaddon
+Выбор 54: Abaddon
+Выбор 55: Acorn Shot
+Выбор 56: Acid Spray
+Выбор 57: Acorn Shot
+Выбор 58: Abaddon
+Выбор 59: Abaddon
+Выбор 60: Acorn Shot
+Выбор 61: Acorn Shot
+Выбор 1: Acorn Shot
+Выбор 2: Acid Spray
+Выбор 3: Acorn Shot
+Выбор 4: Acid Spray
+Выбор 5: Acid Spray
+Выбор 6: Activate Fire Remnant
+Выбор 7: Acid Spray
+Выбор 8: Acid Spray
+Выбор 9: Acorn Shot
+Выбор 10: Acid Spray
+Выбор 11: Acorn Shot
+Выбор 12: Abaddon
+Выбор 13: Abaddon
+Выбор 14: Activate Fire Remnant
+Выбор 15: Acid Spray
+Выбор 16: Abaddon
+Выбор 17: Acid Spray
+Выбор 18: Acid Spray
+Выбор 19: 
+Выбор 1: 
+Выбор 1: Abaddon
+Выбор 1: []
+Выбор 2: []
+Выбор 1: Acid Spray
+Выбор 1: Распыляет в указанной области ...
+Выбор 2: Activate Fire Remnant
+Выбор 3: Acorn Shot
+Выбор 4: Abaddon
+Выбор 1: Abaddon
+Выбор 2: Acid Spray
+Выбор 3: Activate Fire Remnant
+Выбор 1: Acid Spray
+Выбор 2: Acorn Shot
+Выбор 3: Acorn Shot
+Выбор 4: Abaddon
+Выбор 5: Activate Fire Remnant
+Выбор 6: Abaddon
+Выбор 1: Acorn Shot
+Выбор 2: Abaddon
+Выбор 1: Abaddon
+Выбор 2: Abaddon
+Выбор 1: Abaddon
+Выбор 1: Acorn Shot
+Выбор 2: Activate Fire Remnant
+Выбор 3: Acid Spray
+Выбор 1: Acorn Shot
+Выбор 2: Acid Spray
+Выбор 3: Activate Fire Remnant
+Выбор 4: Activate Fire Remnant
+Выбор 5: Abaddon
+Выбор 6: Activate Fire Remnant
+Выбор 7: Activate Fire Remnant
+Выбор 8: Acid Spray
+Выбор 9: Acid Spray
+Выбор 10: Activate Fire Remnant
+Выбор 11: Abaddon
+Выбор 12: Acorn Shot
+Выбор 13: Acorn Shot
+Выбор 14: Abaddon
+Выбор 15: Acorn Shot
+Выбор 16: Activate Fire Remnant
+Выбор 17: Acid Spray
+Выбор 18: Acorn Shot
+Выбор 19: Acid Spray
+Выбор 20: Acid Spray
+Выбор 21: Acorn Shot
+Выбор 1: Acorn Shot
+Выбор 2: Acid Spray
+Выбор 3: Acorn Shot
+Выбор 4: Acorn Shot
+Выбор 5: Acid Spray
+Выбор 6: Abaddon
+Выбор 7: Acid Spray
+Выбор 8: Acorn Shot
+Выбор 9: Activate Fire Remnant
+Выбор 10: Acorn Shot
+Выбор 11: Acid Spray
+Выбор 12: Acorn Shot
+Выбор 13: Abaddon
+Выбор 14: Acorn Shot
+Выбор 15: Abaddon
+Выбор 16: Acid Spray
+Выбор 1: Activate Fire Remnant
+Выбор 2: Acid Spray
+Выбор 3: Activate Fire Remnant
+Выбор 4: Acorn Shot
+Выбор 5: Activate Fire Remnant
+Выбор 6: Activate Fire Remnant
+Выбор 1: Acorn Shot
+Выбор 2: Abaddon
+Выбор 1: Activate Fire Remnant
+Выбор 1: Activate Fire Remnant
+Выбор 2: Acid Spray
+Выбор 3: Acorn Shot
+Выбор 4: Acid Spray
+Выбор 5: Activate Fire Remnant
+Выбор 6: Abaddon
+Выбор 7: Acorn Shot
+Выбор 1: Acorn Shot
+Выбор 2: Acorn Shot
+Выбор 3: Activate Fire Remnant
+Выбор 1: Activate Fire Remnant
+Выбор 2: Activate Fire Remnant
+Выбор 3: Activate Fire Remnant
+Выбор 4: Acid Spray
+Выбор 5: Abaddon
+Выбор 6: Acid Spray
+Выбор 7: Acorn Shot
+Выбор 1: Acid Spray
+Выбор 2: Acorn Shot
+Выбор 3: Abaddon
+Выбор 4: Acorn Shot
+Выбор 5: Abaddon
+Выбор 6: Activate Fire Remnant
+Выбор 7: Acorn Shot
+Выбор 8: Activate Fire Remnant
+Выбор 9: Activate Fire Remnant
+Выбор 10: Acid Spray
+Выбор 11: Abaddon
+Выбор 12: Acorn Shot
+Выбор 13: Acorn Shot
+Выбор 14: Activate Fire Remnant
+Выбор 15: Abaddon
+Выбор 16: Abaddon
+Выбор 17: Acorn Shot
+Выбор 1: Acorn Shot
+Выбор 2: Acorn Shot
+Выбор 3: Abaddon
+Выбор 4: Acid Spray
+Выбор 5: Acid Spray
+Выбор 1: Abaddon
+Выбор 1: Abaddon
+Выбор 1: Acorn Shot
+Выбор 2: Acid Spray
+Выбор 1: Acid Spray
+Выбор 1: Activate Fire Remnant
+Выбор 2: Acid Spray
+Выбор 1: Activate Fire Remnant
+Выбор 2: Activate Fire Remnant
+Выбор 3: Abaddon
+Выбор 4: Abaddon
+Выбор 5: Acid Spray
+Выбор 6: Acid Spray
+Выбор 7: Acid Spray
+Выбор 8: Acorn Shot
+Выбор 9: Acorn Shot
+Выбор 10: Activate Fire Remnant
+Выбор 11: Acid Spray
+Выбор 12: Abaddon
+Выбор 13: Activate Fire Remnant
+Выбор 14: Abaddon
+Выбор 15: Abaddon
+Выбор 16: Acid Spray
+Выбор 17: Friendly Shadow
+Выбор 18: Vengeance Aura
+Выбор 19: X Marks the Spot
+Выбор 20: Fan of Knives
+Выбор 21: Stone Remnant
+Выбор 1: Fireblast
+Выбор 2: Bane
+Выбор 3: Abaddon
+Выбор 4: Fervor
+Выбор 5: Supernova
+Выбор 6: Tree Dance
+Выбор 7: Magic Missile
+Выбор 8: Firestorm
+Выбор 9: Tombstone
+Выбор 10: Call Down
+Выбор 11: Shapeshift
+Выбор 12: Sleight of Fist
+Выбор 13: Teleportation
+Выбор 14: Dragon_Knight
+Выбор 15: Spring Early
+Выбор 16: Juggernaut
+Выбор 17: Способность жертвы 2
+Выбор 18: Windrun
+Выбор 19: Meat Hook
+Выбор 20: Lightning Storm
+Выбор 21: Ravage
+Выбор 22: Способность жертвы 2
+Выбор 23: Medusa
+Выбор 1: Battle Hunger
+Выбор 2: Smoke Screen
+Выбор 1: Kinetic Field
+Выбор 1: Reality
+Выбор 2: Ice Vortex
+Выбор 3: Glimpse
+Выбор 4: Feast
+Выбор 5: Nimbus
+Выбор 6: Planar Pocket
+Выбор 7: Swiftslash
+Выбор 1: Sacred Arrow
+Выбор 2: Mana Break
+Выбор 3: Lion
+Выбор 4: Static Link
+Выбор 5: Puck
+Выбор 6: Launch Fire Spirit
+Выбор 7: Juggernaut
+Выбор 8: Bloodlust
+Выбор 9: Ignite
+Выбор 10: Spin Web
+Выбор 11: Divided We Stand
+Выбор 12: Украденная способность 2
+Выбор 13: Torrent Storm
+Выбор 14: Spectre
+Выбор 15: MegaMeepo
+Выбор 16: Enchant Totem
+Выбор 17: Greevil's Greed
+Выбор 18: Flaming Fists
+Выбор 19: Overgrowth
+Выбор 20: Bristleback
+Выбор 21: Dark Seer
+Выбор 22: Warlock
+Выбор 23: Chakra Magic
+Выбор 24: Poison Touch
+Выбор 25: Rocket Flare
+Выбор 26: Attribute Shift (Сила)
+Выбор 27: Battle Trance
+Выбор 28: Necrophos
+Выбор 29: Reflection
+Выбор 30: Deathlust
+Выбор 31: Poison
+Выбор 32: Release Illuminate
+Выбор 33: Multicast
+Выбор 34: Insatiable Hunger
+Выбор 35: Death Seeker
+Выбор 36: Sand Storm
+Выбор 37: Bloodseeker
+Выбор 38: Puck
+Выбор 39: Psionic Projection
+Выбор 40: Tree Dance
+Выбор 41: Sharpshooter
+Выбор 42: Toss
+Выбор 43: Minefield Sign
+Выбор 44: Shadow Wave
+Выбор 45: Sleight of Fist
+Выбор 46: Song of the Siren End
+Выбор 47: Primal Companion
+Выбор 48: Tidal Wave
+Выбор 49: Faceless Void
+Выбор 50: Cripple
+Выбор 51: Multishot
+Выбор 52: Breathe Fire
+Выбор 53: Void Spirit
+Выбор 54: Frost Arrows
+Выбор 55: Call of the Wild (ястреб)
+Выбор 56: Burning Spear
+Выбор 57: Summon Wolves
+Выбор 58: Untouchable
+Выбор 59: Sacred Arrow
+Выбор 60: Culling Blade
+Выбор 61: Huskar
+Выбор 62: Windrun
+Выбор 63: Counter Helix
+Выбор 64: Decrepify
+Выбор 65: Thirst
+Выбор 66: Nightmare
+Выбор 67: Nosedive
+Выбор 68: Overpower
+Выбор 69: Frostbite
+Выбор 70: Silencer
+Выбор 71: Marci
+Выбор 72: Magnetic Field
+Выбор 73: Walrus PUNCH!
+Выбор 74: Morph Replicate
+Выбор 75: Trap
+Выбор 76: Bulldoze
+Выбор 77: Storm Surge
+Выбор 78: MegaMeepo
+Выбор 79: Earthshock
+Выбор 80: Take Aim
+Выбор 81: Divine Favor
+Выбор 82: Juxtapose
+Выбор 83: Chen
+Выбор 84: Primal Roar
+Выбор 85: Shadow Demon
+Выбор 86: Gush
+Выбор 87: Ice Spire
+Выбор 88: Dark Ascension
+Выбор 89: Rampage
+Выбор 90: Leshrac
+Выбор 91: Dispersion
+Выбор 92: Hookshot
+Выбор 93: Cripple
+Выбор 94: Silence
+Выбор 95: Bash of the Deep
+Выбор 96: Requiem of Souls
+Выбор 97: Starstorm
+Выбор 98: Brain Sap
+Выбор 99: Rubick
+Выбор 100: Enchant Totem
+Выбор 101: Demon Zeal
+Выбор 102: Sun Ray
+Выбор 103: Синтез Aghanim's Scepter
+Выбор 104: Hand of God
+Выбор 105: Latent Toxicity
+Выбор 106: Cinder Brew
+Выбор 107: Vendetta
+Выбор 108: Holy Persuasion
+Выбор 109: Spirit Siphon
+Выбор 110: Visage
+Выбор 111: Rebound
+Выбор 112: Shadow Wave
+Выбор 113: Juggernaut
+Выбор 114: Bounty Hunter
+Выбор 115: Techies
+Выбор 116: Slardar
+Выбор 117: Dragon Knight
+Выбор 118: Eject
+Выбор 119: Marksmanship
+Выбор 120: Stone Form
+Выбор 121: Avalanche
+Выбор 122: Stone Form
+Выбор 123: Enchant Totem
+Выбор 124: Invoke
+Выбор 125: Bloodrage
+Выбор 126: Drunken Brawler
+Выбор 127: Shadow Fiend
+Выбор 128: Mystic Flare
+Выбор 129: Omnislash
+Выбор 130: Lightning Hands
+Выбор 131: Bristleback
+Выбор 132: Clinkz
+Выбор 133: Attribute Shift (Сила)
+Выбор 134: Lil' Shredder
+Выбор 135: Stone Form
+Выбор 136: Glacier
+Выбор 137: Call Down
+Выбор 138: Nightmare
+Выбор 139: Metamorphosis
+Выбор 140: Winter Wyvern
+Выбор 141: Grow
+Выбор 142: Shadow Demon
+Выбор 143: Lightning Bolt
+Выбор 144: Illusory Orb
+Выбор 145: Gravekeeper's Cloak
+Выбор 146: Health Aura
+Выбор 147: Counter Helix
+Выбор 148: Tidebringer
+Выбор 149: Clinkz

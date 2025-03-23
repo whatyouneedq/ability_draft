@@ -1,0 +1,3 @@
+tag: Keeper_of_the_Light
+name: Keeper of the Light
+title: «Говорят, что это я принес первый свет во вселенную. Может, так оно и было - не припомню.»

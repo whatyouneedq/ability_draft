@@ -1,0 +1,3 @@
+tag: Bounty_Hunter
+name: Bounty Hunter
+title: «Любую дичь за ваши деньги.»

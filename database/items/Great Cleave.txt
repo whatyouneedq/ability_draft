@@ -1,0 +1,3 @@
+tag: Great Cleave
+name: Great Cleave
+title: Могучие удары героя прорубают жертву, поражая всех врагов вокруг неё.

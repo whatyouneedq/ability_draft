@@ -1,0 +1,3 @@
+tag: Electric Vortex
+name: Electric Vortex
+title: —оздаЄт вихрь, зат€гивающий врага в место, где находитс€ герой.

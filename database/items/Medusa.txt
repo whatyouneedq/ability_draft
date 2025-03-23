@@ -1,0 +1,3 @@
+tag: Medusa
+name: Medusa
+title: «The only real beauty is power.»

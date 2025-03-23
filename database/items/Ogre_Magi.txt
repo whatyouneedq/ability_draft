@@ -1,0 +1,3 @@
+tag: Ogre_Magi
+name: Ogre Magi
+title: «Мы их одурачили! Так вот, как это называется!»

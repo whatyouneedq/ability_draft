@@ -1,0 +1,3 @@
+tag: Permanent Immolation
+name: Permanent Immolation
+title: Обжигает врагов неподалёку.

@@ -1,0 +1,3 @@
+tag: Return Second Chakram
+name: Return Second Chakram
+title: ¬озвращает пилу от способности Chakram к герою.

@@ -1,0 +1,3 @@
+tag: Stop Sun Ray
+name: Stop Sun Ray
+title: Немедленно останавливает Sun Ray.

@@ -1,0 +1,3 @@
+tag: Aghanim%27s_Blessing
+name: Aghanim%27s Blessing
+title: Скипетр колдуна, мощью сходного с полубогами.

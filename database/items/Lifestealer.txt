@@ -1,0 +1,3 @@
+tag: Lifestealer
+name: Lifestealer
+title: «Oh Master, behold all these lives for the taking!»

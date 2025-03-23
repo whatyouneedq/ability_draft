@@ -1,0 +1,3 @@
+tag: Light Strike Array
+name: Light Strike Array
+title: Призывает столб пламени, который оглушает врагов и наносит им урон.

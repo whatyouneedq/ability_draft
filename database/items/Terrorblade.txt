@@ -1,0 +1,3 @@
+tag: Terrorblade
+name: Terrorblade
+title: «The prison walls of Foulfell were no match for my rage.»

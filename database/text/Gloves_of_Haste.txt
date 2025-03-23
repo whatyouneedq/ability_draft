@@ -1,0 +1,3 @@
+tag: Gloves_of_Haste
+name: Gloves of Haste
+title: Пара магических перчаток, в которых оружие кажется лёгким как пёрышко.

@@ -1,0 +1,3 @@
+tag: Spirit_Vessel
+name: Spirit Vessel
+title: Сотворена богом, желавшим изловить души остальных.

@@ -1,0 +1,3 @@
+tag: Veil_of_Discord
+name: Veil of Discord
+title: Головной убор испорченных магов.

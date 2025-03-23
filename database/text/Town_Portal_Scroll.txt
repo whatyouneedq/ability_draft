@@ -1,0 +1,3 @@
+tag: Town_Portal_Scroll
+name: Town Portal Scroll
+title: То, что нужно истинному герою.

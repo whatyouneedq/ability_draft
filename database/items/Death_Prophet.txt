@@ -1,0 +1,3 @@
+tag: Death_Prophet
+name: Death Prophet
+title: «What I've seen goes far beyond death.»

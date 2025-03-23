@@ -1,0 +1,3 @@
+tag: Centaur_Warrunner
+name: Centaur Warrunner
+title: «Я не горжусь своей силой, но я лелею её.»

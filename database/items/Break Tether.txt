@@ -1,0 +1,3 @@
+tag: Break Tether
+name: Break Tether
+title: Разрывает связь.

@@ -1,0 +1,3 @@
+tag: Mass Serpent Ward
+name: Mass Serpent Ward
+title: Призывает 10 невосприимчивых к магии змеиных тотемов, атакующих врагов и постройки.

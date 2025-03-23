@@ -1,0 +1,3 @@
+tag: Global Silence
+name: Global Silence
+title: Герой заглушает все звуки на поле боя, не давая врагам применять способности.

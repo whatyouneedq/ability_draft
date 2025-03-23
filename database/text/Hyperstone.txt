@@ -1,0 +1,3 @@
+tag: Hyperstone
+name: Hyperstone
+title: Загадочный резной камень, который повышает прыть владельца.

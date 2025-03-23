@@ -1,0 +1,3 @@
+tag: Chen
+name: Chen
+title: «You can learn faith at the end of a sword.»

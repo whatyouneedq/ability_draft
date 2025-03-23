@@ -1,0 +1,3 @@
+tag: Earth_Spirit
+name: Earth Spirit
+title: «Противостояние показывает истинную натуру.»

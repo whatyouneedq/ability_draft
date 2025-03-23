@@ -1,0 +1,3 @@
+tag: Diffusal_Blade
+name: Diffusal Blade
+title: Зачарованный меч, позволяющий прорубиться до вражеской души.

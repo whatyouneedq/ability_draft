@@ -1,0 +1,3 @@
+tag: Viper
+name: Viper
+title: «I am no sorcerer's familiar. Rather, I'll take a sorcerer as my pet.»

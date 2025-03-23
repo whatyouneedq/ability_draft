@@ -1,0 +1,3 @@
+tag: Nightmare End
+name: Nightmare End
+title: Заканчивает действие всех Nightmare.

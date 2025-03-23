@@ -1,0 +1,3 @@
+tag: Hurl Boulder
+name: Hurl Boulder
+title: Бросает булыжник, который наносит урон врагу и оглушает его.

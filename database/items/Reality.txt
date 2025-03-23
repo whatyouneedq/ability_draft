@@ -1,0 +1,3 @@
+tag: Reality
+name: Reality
+title: Герой меняется местами с выбранной иллюзией от способности Haunt.

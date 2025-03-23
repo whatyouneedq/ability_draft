@@ -1,0 +1,3 @@
+tag: Wraith_Band
+name: Wraith Band
+title: Диадема, от которой доносится легкий шепот.

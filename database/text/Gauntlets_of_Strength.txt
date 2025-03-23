@@ -1,0 +1,3 @@
+tag: Gauntlets_of_Strength
+name: Gauntlets of Strength
+title: ”креплЄнные кожаные перчатки, которые дают грубую силу.

@@ -1,0 +1,3 @@
+tag: Mirror Image
+name: Mirror Image
+title: Создаёт несколько иллюзий героя под его контролем.

@@ -1,0 +1,3 @@
+tag: Treant_Protector
+name: Treant Protector
+title: «За жизнью идёт смерть, а за ней новая жизнь - таков уж порядок.»

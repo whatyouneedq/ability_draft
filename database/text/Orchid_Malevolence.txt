@@ -1,0 +1,3 @@
+tag: Orchid_Malevolence
+name: Orchid Malevolence
+title: Гранатовый посох, выкованный из сущности огненного демона.

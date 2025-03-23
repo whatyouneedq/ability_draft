@@ -1,0 +1,3 @@
+tag: Ultimate_Orb
+name: Ultimate Orb
+title: Мистическая сфера, содержащая в себе эссенцию жизни.

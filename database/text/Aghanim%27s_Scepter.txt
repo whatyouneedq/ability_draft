@@ -1,0 +1,3 @@
+tag: Aghanim%27s_Scepter
+name: Aghanim%27s Scepter
+title: Скипетр колдуна, наделенный силами, присущими полубогам.

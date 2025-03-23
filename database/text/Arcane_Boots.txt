@@ -1,0 +1,3 @@
+tag: Arcane_Boots
+name: Arcane Boots
+title: ¬ этих ботинках маг становитс€ более ценным в бою.

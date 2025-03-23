@@ -1,0 +1,3 @@
+tag: Shadow_Fiend
+name: Shadow Fiend
+title: «Хочешь знать откуда я? Подойди поближе, и увидишь сам.»

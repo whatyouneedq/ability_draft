@@ -1,0 +1,3 @@
+tag: Magic Missile
+name: Magic Missile
+title: Выпускает во врага магический снаряд, который оглушает и наносит урон.

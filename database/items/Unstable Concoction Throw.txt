@@ -1,0 +1,3 @@
+tag: Unstable Concoction Throw
+name: Unstable Concoction Throw
+title: Бросайте, пока не взорвалось!

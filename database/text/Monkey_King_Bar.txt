@@ -1,0 +1,3 @@
+tag: Monkey_King_Bar
+name: Monkey King Bar
+title: Могущественный посох, которым пользовался искусный воин.

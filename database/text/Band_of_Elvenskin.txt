@@ -1,0 +1,3 @@
+tag: Band_of_Elvenskin
+name: Band of Elvenskin
+title: Эту эластичную ткань часто используют, так как она легка и не сковывает движения.

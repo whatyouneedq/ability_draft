@@ -1,0 +1,3 @@
+tag: Mithril_Hammer
+name: Mithril Hammer
+title: Молот, выкованный из чистейшего мифрила.

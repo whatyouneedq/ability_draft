@@ -1,0 +1,3 @@
+tag: Moment of Courage
+name: Moment of Courage
+title: Может мгновенно ответить на вражескую атаку контрударом с дополнительным вампиризмом.

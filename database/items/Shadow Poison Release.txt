@@ -1,0 +1,3 @@
+tag: Shadow Poison Release
+name: Shadow Poison Release
+title: ¬ыпускает €д в заражЄнных врагах, нанос€ урон, даже если жертва спр€тана способностью Disruption.

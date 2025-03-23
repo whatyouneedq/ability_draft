@@ -1,0 +1,3 @@
+tag: Vengeful_Spirit
+name: Vengeful Spirit
+title: «I will slake my thirst for revenge.»

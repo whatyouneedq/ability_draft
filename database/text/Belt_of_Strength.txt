@@ -1,0 +1,3 @@
+tag: Belt_of_Strength
+name: Belt of Strength
+title: Ценный аксессуар, повышающий живучесть.

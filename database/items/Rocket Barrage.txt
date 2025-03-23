@@ -1,0 +1,3 @@
+tag: Rocket Barrage
+name: Rocket Barrage
+title: Герой обстреливает окружающих врагов ракетами. Длится 3 секунды.

@@ -1,0 +1,3 @@
+tag: Swiftslash
+name: Swiftslash
+title: Герой применяет короткую версию Omnislash.

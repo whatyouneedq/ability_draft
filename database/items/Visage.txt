@@ -1,0 +1,3 @@
+tag: Visage
+name: Visage
+title: «To oppose me is to deny death.»

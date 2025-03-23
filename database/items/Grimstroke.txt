@@ -1,0 +1,3 @@
+tag: Grimstroke
+name: Grimstroke
+title: «I'll paint this world as I see fit.»

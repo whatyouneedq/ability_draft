@@ -1,0 +1,3 @@
+tag: Прервать Primal Split
+name: Прервать Primal Split
+title: Объединиться в одного героя

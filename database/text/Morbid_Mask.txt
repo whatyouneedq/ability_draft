@@ -1,0 +1,3 @@
+tag: Morbid_Mask
+name: Morbid Mask
+title: Маска, поглощающая энергию тех, кто попался ей на глаза.

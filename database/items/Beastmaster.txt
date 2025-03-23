@@ -1,0 +1,3 @@
+tag: Beastmaster
+name: Beastmaster
+title: «I run with the rabbit and hunt with the hounds.»

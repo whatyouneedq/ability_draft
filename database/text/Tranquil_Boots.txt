@@ -1,0 +1,3 @@
+tag: Tranquil_Boots
+name: Tranquil Boots
+title: Хоть эти сапоги и увеличивают выживаемость обладателя, они не слишком надёжны.

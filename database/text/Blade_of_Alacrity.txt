@@ -1,0 +1,3 @@
+tag: Blade_of_Alacrity
+name: Blade of Alacrity
+title: Длинный клинок, насыщенный магией времени.

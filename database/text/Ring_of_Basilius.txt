@@ -1,0 +1,3 @@
+tag: Ring_of_Basilius
+name: Ring of Basilius
+title: Кольцо, служившее наградой величайшим магам.

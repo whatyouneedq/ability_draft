@@ -1,0 +1,3 @@
+tag: Lion
+name: Lion
+title: «I don't fear Hell; Hell fears me.»

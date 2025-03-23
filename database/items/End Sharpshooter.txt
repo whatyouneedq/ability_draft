@@ -1,0 +1,3 @@
+tag: End Sharpshooter
+name: End Sharpshooter
+title: Совершить выстрел и вернуть способность передвигаться и атаковать.

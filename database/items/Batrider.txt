@@ -1,0 +1,3 @@
+tag: Batrider
+name: Batrider
+title: «А почему вы мою мышку боитесь? Она фрукты ест!»

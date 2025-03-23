@@ -1,0 +1,3 @@
+tag: Staff_of_Wizardry
+name: Staff of Wizardry
+title: Магический посох, которым когда-то владели древние маги.

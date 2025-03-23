@@ -1,0 +1,3 @@
+tag: Insatiable Hunger
+name: Insatiable Hunger
+title: Неистовая жажда питательных соков увеличивает урон героя и наделяет его вампиризмом.

@@ -1,0 +1,3 @@
+tag: Bash of the Deep
+name: Bash of the Deep
+title: Каждая четвёртая атака героя оглушит и нанесёт дополнительный урон противнику.

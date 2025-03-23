@@ -1,0 +1,3 @@
+tag: Sacred_Relic
+name: Sacred Relic
+title: Древнее оружие, способное изменить ход битвы.

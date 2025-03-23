@@ -1,0 +1,3 @@
+tag: Orb_of_Venom
+name: Orb of Venom
+title: Орошает ваше оружие змеиным ядом.

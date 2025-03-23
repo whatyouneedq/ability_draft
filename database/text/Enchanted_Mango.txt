@@ -1,0 +1,3 @@
+tag: Enchanted_Mango
+name: Enchanted Mango
+title: Любимый амфибиями горько-сладкий плод с острова Джиди.

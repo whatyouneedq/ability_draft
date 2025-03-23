@@ -1,0 +1,3 @@
+tag: Destroy Spin Web
+name: Destroy Spin Web
+title: ”ничтожает выбранную паутину.

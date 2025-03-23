@@ -1,0 +1,3 @@
+tag: Omniknight
+name: Omniknight
+title: «Пусть этот поход будет последним, я жажду мира.»

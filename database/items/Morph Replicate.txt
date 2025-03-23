@@ -1,0 +1,3 @@
+tag: Morph Replicate
+name: Morph Replicate
+title: Герой моментально превращается в копию врага или наоборот.

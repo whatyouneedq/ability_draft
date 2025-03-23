@@ -1,0 +1,3 @@
+tag: Weaver
+name: Weaver
+title: «Fate weaves the threads of our lives together. Fate also wields the blade that cuts them short.»

@@ -1,0 +1,3 @@
+tag: Crimson_Guard
+name: Crimson Guard
+title: Кираса, изначально выкованная для защиты от ужасающего Годня.

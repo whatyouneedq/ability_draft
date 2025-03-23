@@ -1,0 +1,3 @@
+tag: Talisman_of_Evasion
+name: Talisman of Evasion
+title: ќжерелье, позвол€ющее предвидеть вражеские удары.

@@ -1,0 +1,3 @@
+tag: Revert Form
+name: Revert Form
+title: ¬озвращает геро€ в изначальную форму.

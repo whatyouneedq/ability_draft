@@ -1,0 +1,3 @@
+tag: God's Strength
+name: God's Strength
+title: Sven концентрирует свою неконтролируемую силу, получая бонус к урону на 35 секунд.

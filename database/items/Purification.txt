@@ -1,0 +1,3 @@
+tag: Purification
+name: Purification
+title: ћгновенно исцел€ет союзное существо и наносит урон врагам вокруг него.

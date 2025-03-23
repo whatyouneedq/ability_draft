@@ -1,0 +1,3 @@
+tag: Robe_of_the_Magi
+name: Robe of the Magi
+title: Эта роба пятнает душу владельца, но в обмен дарует мудрость.

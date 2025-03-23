@@ -1,0 +1,3 @@
+tag: Slippers_of_Agility
+name: Slippers of Agility
+title: Лёгкие ботинки, сделанные из кожи паука, обостряют ваше чутьё.

@@ -1,0 +1,3 @@
+tag: Mars
+name: Mars
+title: «To those behind, rally! To those ahead, kneel.»

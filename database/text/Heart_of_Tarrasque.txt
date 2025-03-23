@@ -1,0 +1,3 @@
+tag: Heart_of_Tarrasque
+name: Heart of Tarrasque
+title: Сохранившееся сердце вымершего монстра, с которым его владелец становится мужественнее.

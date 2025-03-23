@@ -1,0 +1,3 @@
+tag: Begin Onslaught
+name: Begin Onslaught
+title: Герой прекращает набирать силы и бежит в выбранном направлении.

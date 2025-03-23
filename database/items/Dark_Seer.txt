@@ -1,0 +1,3 @@
+tag: Dark_Seer
+name: Dark Seer
+title: «An enemy destroyed cannot rise against you.»

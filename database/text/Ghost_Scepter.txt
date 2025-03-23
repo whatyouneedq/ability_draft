@@ -1,0 +1,3 @@
+tag: Ghost_Scepter
+name: Ghost Scepter
+title: Переносит сущность владельца в мир духов, защищая от физических атак.

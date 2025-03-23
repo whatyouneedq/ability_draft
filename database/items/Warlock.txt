@@ -1,0 +1,3 @@
+tag: Warlock
+name: Warlock
+title: «A new chapter in my Black Grimoire.»

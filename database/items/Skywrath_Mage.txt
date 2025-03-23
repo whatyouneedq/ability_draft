@@ -1,0 +1,3 @@
+tag: Skywrath_Mage
+name: Skywrath Mage
+title: «Даже битву на этом бренном поле боя я посвящаю великим скайрасам.»

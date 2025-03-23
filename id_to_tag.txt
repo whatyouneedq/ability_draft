@@ -1,0 +1,785 @@
+0 - Abaddon
+1 - Acid Spray
+2 - Acorn Shot
+3 - Activate Fire Remnant
+4 - Adaptive Strike (Ловкость)
+5 - Adaptive Strike (Сила)
+6 - Aether Remnant
+7 - Aftershock
+8 - Alacrity
+9 - Alchemist
+10 - Anchor Smash
+11 - Ancient Seal
+12 - Ancient_Apparition
+13 - Anti-Mage
+14 - Aphotic Shield
+15 - Arc Lightning
+16 - Arcane Aura
+17 - Arcane Bolt
+18 - Arcane Curse
+19 - Arcane Orb
+20 - Arcane Supremacy
+21 - Arctic Burn
+22 - Arc_Warden
+23 - Arena Of Blood
+24 - Assassinate
+25 - Astral Imprisonment
+26 - Astral Pull
+27 - Astral Spirit
+28 - Astral Step
+29 - Atrophy Aura
+30 - Attribute Shift (Ловкость)
+31 - Attribute Shift (Сила)
+32 - Avalanche
+33 - Axe
+34 - Bad Juju
+35 - Ball Lightning
+36 - Bane
+37 - Bash of the Deep
+38 - Batrider
+39 - Battery Assault
+40 - Battle Hunger
+41 - Battle Trance
+42 - Beastmaster
+43 - Become Universal
+44 - Bedlam
+45 - Begin Onslaught
+46 - Berserk Potion
+47 - Berserker's Blood
+48 - Berserker's Call
+49 - Berserker's Rage
+50 - Black Hole
+51 - Blade Dance
+52 - Blade Fury
+53 - Blast Off!
+54 - Blinding Light
+55 - Blink Fragment
+56 - Blink Strike
+57 - Blink
+58 - Blood Mist
+59 - Blood Rite
+60 - Bloodlust
+61 - Bloodrage
+62 - Bloodseeker
+63 - Blur
+64 - Borrowed Time
+65 - Boulder Smash
+66 - Boundless Strike
+67 - Bounty_Hunter
+68 - Brain Sap
+69 - Bramble Maze
+70 - Break Tether
+71 - Breathe Fire
+72 - Brewmaster
+73 - Bristleback
+74 - Broodmother
+75 - Bulldoze
+76 - Bulwark
+77 - Burning Army
+78 - Burning Barrage
+79 - Burning Spear
+80 - Burrow
+81 - Burrowstrike
+82 - Bushwhack
+83 - Call Down
+84 - Call of the Wild (кабан)
+85 - Call of the Wild (ястреб)
+86 - Caustic Finale
+87 - Celestial Hammer
+88 - Centaur_Warrunner
+89 - Chain Frost
+90 - Chakra Magic
+91 - Chakram
+92 - Chaos Bolt
+93 - Chaos Meteor
+94 - Chaos Strike
+95 - Chaos_Knight
+96 - Chaotic Offering
+97 - Charge of Darkness
+98 - Chemical Rage
+99 - Chen
+100 - Chilling Touch
+101 - Chronosphere
+102 - Cinder Brew
+103 - Clinkz
+104 - Cloak and Dagger
+105 - Clockwerk
+106 - Cold Blooded
+107 - Cold Embrace
+108 - Cold Feet
+109 - Cold Snap
+110 - Concussive Grenade
+111 - Concussive Shot
+112 - Conjure Image
+113 - Consume
+114 - Converge
+115 - Corrosive Haze
+116 - Corrosive Skin
+117 - Corrosive Weaponry
+118 - Counter Helix
+119 - Counterspell Ally
+120 - Counterspell
+121 - Coup de Grace
+122 - Cripple
+123 - Crippling Fear
+124 - Crypt Swarm
+125 - Crystal Clone
+126 - Crystal Nova
+127 - Crystal_Maiden
+128 - Culling Blade
+129 - Curse of Avernus
+130 - Curse of the Oldgrowth
+131 - Cursed Crown
+132 - Cyclone
+133 - Dark Ascension
+134 - Dark Portrait
+135 - Dark_Seer
+136 - Dark_Willow
+137 - Dawnbreaker
+138 - Dazzle
+139 - Dead in the Water
+140 - Dead Shot
+141 - Deafening Blast
+142 - Death Pact
+143 - Death Pulse
+144 - Death Seeker
+145 - Death Ward
+146 - Deathlust
+147 - Death_Prophet
+148 - Decay
+149 - Decoy
+150 - Decrepify
+151 - Defense Matrix
+152 - Demolish
+153 - Demon Zeal
+154 - Demonic Cleanse
+155 - Demonic Purge
+156 - Demonic Summoning
+157 - Desolate
+158 - Destroy Spin Web
+159 - Devour
+160 - Diabolic Edict
+161 - Dig
+162 - Dismember
+163 - Dispel Magic
+164 - Dispersion
+165 - Dispose
+166 - Disruption
+167 - Disruptor
+168 - Disseminate
+169 - Dissimilate
+170 - Dive Bomb
+171 - Divided We Stand
+172 - Divine Favor
+173 - Doom
+174 - Doppelganger
+175 - Double Edge
+176 - Dragon Blood
+177 - Dragon Slave
+178 - Dragon Tail
+179 - Dragon_Knight
+180 - Dream Coil
+181 - Drow_Ranger
+182 - Drums of Slom
+183 - Drunken Brawler
+184 - Dual Breath
+185 - Duel
+186 - Dumb Luck
+187 - E.M.P.
+188 - Earth Spike
+189 - Earth Splitter
+190 - Earthbind
+191 - Earthshaker
+192 - Earthshock
+193 - Earth_Spirit
+194 - Echo Slam
+195 - Echo Stomp
+196 - Eclipse
+197 - Eject
+198 - Elder Dragon Form
+199 - Elder_Titan
+200 - Electric Vortex
+201 - Ember_Spirit
+202 - Empower
+203 - Enchant Remnant
+204 - Enchant Totem
+205 - Enchant
+206 - Enchantress
+207 - End Sharpshooter
+208 - Enfeeble
+209 - Enigma
+210 - Enrage
+211 - Ensnare
+212 - Entangling Claws
+213 - Epicenter
+214 - Essence Flux
+215 - Ether Shock
+216 - Ethereal Jaunt
+217 - EUREKA!
+218 - Exorcism
+219 - Exort
+220 - Eye of the Storm
+221 - Eyes In The Forest
+222 - Faceless_Void
+223 - Fade Bolt
+224 - False Promise
+225 - Fan of Knives
+226 - Fatal Bonds
+227 - Fate's Edict
+228 - Feast
+229 - Feral Impulse
+230 - Fervor
+231 - Fiend's Gate
+232 - Fiend's Grip
+233 - Fiery Soul
+234 - Finger of Death
+235 - Fire Remnant
+236 - Fire Shield
+237 - Fire Spirits
+238 - Fireball
+239 - Fireblast
+240 - Firefly
+241 - Firesnap Cookie
+242 - Firestorm
+243 - Fissure
+244 - Flak Cannon
+245 - Flame Cloak
+246 - Flame Guard
+247 - Flamebreak
+248 - Flamethrower
+249 - Flaming Fists
+250 - Flaming Lasso
+251 - Flesh Golem
+252 - Flesh Heap
+253 - Flux
+254 - Focus Fire
+255 - Forge Spirit
+256 - Fortune's End
+257 - Freezing Field
+258 - Friendly Shadow
+259 - Frost Arrows
+260 - Frost Blast
+261 - Frost Shield
+262 - Frostbite
+263 - Fury Swipes
+264 - Gale Force
+265 - Geminate Attack
+266 - Geomagnetic Grip
+267 - Ghost Shroud
+268 - Ghost Walk
+269 - Ghostship
+270 - Ghoul Frenzy
+271 - Glacier
+272 - Glaives of Wisdom
+273 - Glimpse
+274 - Global Silence
+275 - Gobble Up
+276 - God's Rebuke
+277 - God's Strength
+278 - Grave Chill
+279 - Gravekeeper's Cloak
+280 - Great Cleave
+281 - Greater Bash
+282 - Greevil's Greed
+283 - Grimstroke
+284 - Grow
+285 - Guardian Angel
+286 - Guardian Sprint
+287 - Gunslinger
+288 - Gush
+289 - Gust
+290 - Gyrocopter
+291 - Hairball
+292 - Hammer of Purity
+293 - Hand of God
+294 - Haunt
+295 - Headshot
+296 - Healing Ward
+297 - Health Aura
+298 - Heartstopper Aura
+299 - Heavenly Grace
+300 - Heavenly Jump
+301 - Hex
+302 - Hitch A Ride
+303 - Holy Persuasion
+304 - Homing Missile
+305 - Hoodwink
+306 - Hoof Stomp
+307 - Hookshot
+308 - Horn Toss
+309 - Howl
+310 - Hunter in the Night
+311 - Hurl Boulder
+312 - Huskar
+313 - Icarus Dive
+314 - Ice Blast
+315 - Ice Path
+316 - Ice Shards
+317 - Ice Spire
+318 - Ice Vortex
+319 - Ice Wall
+320 - Ignite
+321 - Illuminate (Spirit Form)
+322 - Illuminate
+323 - Illusory Orb
+324 - Impale
+325 - Impetus
+326 - Infernal Blade
+327 - Infest
+328 - Ink Swell
+329 - Inner Beast
+330 - Inner Fire
+331 - Insatiable Hunger
+332 - Invisibility
+333 - Invoke
+334 - Invoker
+335 - Io
+336 - Ion Shell
+337 - Jakiro
+338 - Jetpack
+339 - Jinada
+340 - Jingu Mastery
+341 - Juggernaut
+342 - Juxtapose
+343 - Keen Conveyance
+344 - Keeper_of_the_Light
+345 - Kinetic Field
+346 - Kraken Shell
+347 - Kunkka
+348 - Laguna Blade
+349 - Laser
+350 - Last Word
+351 - Latent Toxicity
+352 - Launch Fire Spirit
+353 - Launch Snowball
+354 - Leap
+355 - Leech Seed
+356 - Legion_Commander
+357 - Leshrac
+358 - Lich
+359 - Life Break
+360 - Life Drain
+361 - Lifestealer
+362 - Light Strike Array
+363 - Lightning Bolt
+364 - Lightning Hands
+365 - Lightning Storm
+366 - Lil' Shredder
+367 - Lina
+368 - Lion
+369 - Liquid Fire
+370 - Liquid Frost
+371 - Little Friends
+372 - Living Armor
+373 - Lone_Druid
+374 - Lucent Beam
+375 - Luminosity
+376 - Luna
+377 - Lunar Blessing
+378 - Lycan
+379 - Macropyre
+380 - Magic Missile
+381 - Magnetic Field
+382 - Magnetize
+383 - Magnus
+384 - Maledict
+385 - Malefice
+386 - Mana Break
+387 - Mana Drain
+388 - Mana Shield
+389 - Mana Void
+390 - March of the Machines
+391 - Marci
+392 - Marksmanship
+393 - Mars
+394 - Martyrdom
+395 - Mass Serpent Ward
+396 - Meat Hook
+397 - Medusa
+398 - Meepo
+399 - MegaMeepo Fling
+400 - MegaMeepo
+401 - Meld
+402 - Melting Strike
+403 - Metamorphosis
+404 - Midnight Pulse
+405 - Mind Flare
+406 - Minefield Sign
+407 - Mirana
+408 - Mirror Image
+409 - Mischief
+410 - Mist Coil
+411 - Moment of Courage
+412 - Monkey_King
+413 - Moon Glaives
+414 - Moonlight Shadow
+415 - Morph Replicate
+416 - Morph
+417 - Morphling
+418 - Mortal Strike
+419 - Mortimer Kisses
+420 - Move Astral Spirit
+421 - Move Speed Aura
+422 - Muerta
+423 - Multicast
+424 - Multishot
+425 - Mystic Flare
+426 - Mystic Snake
+427 - Naga_Siren
+428 - Natural Order
+429 - Nature%27s_Prophet
+430 - Nature's Attendants
+431 - Nature's Call
+432 - Nature's Grasp
+433 - Nature's Guise
+434 - Necromastery
+435 - Necrophos
+436 - Nether Blast
+437 - Nether Strike
+438 - Nether Swap
+439 - Nether Ward
+440 - Nethertoxin
+441 - Nightmare End
+442 - Nightmare
+443 - Night_Stalker
+444 - Nihilism
+445 - Nimbus
+446 - Normal Punch
+447 - Nosedive
+448 - Noxious Plague
+449 - Nyx_Assassin
+450 - Ogre_Magi
+451 - Omniknight
+452 - Omnislash
+453 - Onslaught
+454 - Open Wounds
+455 - Oracle
+456 - Outworld_Destroyer
+457 - Overcharge
+458 - Overclocking
+459 - Overgrowth
+460 - Overload
+461 - Overpower
+462 - Overwhelming Odds
+463 - Pangolier
+464 - Paralyzing Cask
+465 - Parting Shot
+466 - Penitence
+467 - Permanent Immolation
+468 - Permanent Phase
+469 - Phantasm
+470 - Phantom Rush
+471 - Phantom Strike
+472 - Phantom's Embrace
+473 - Phantom_Assassin
+474 - Phantom_Lancer
+475 - Phase Shift
+476 - Phoenix
+477 - Pierce the Veil
+478 - Pit of Malice
+479 - Plague Ward
+480 - Planar Pocket
+481 - Plasma Field
+482 - Poison Attack
+483 - Poison Nova
+484 - Poison Sting
+485 - Poison Touch
+486 - Poison
+487 - Poof
+488 - Power Cogs
+489 - Powershot
+490 - Presence of the Dark Lord
+491 - Press the Attack
+492 - Primal Companion
+493 - Primal Roar
+494 - Primal Split
+495 - Primal Spring
+496 - Primal_Beast
+497 - Proximity Mines
+498 - Psi Blades
+499 - Psionic Projection
+500 - Psionic Trap
+501 - Puck
+502 - Pudge
+503 - Pugna
+504 - Pulse Nova
+505 - Pulverize
+506 - Purification
+507 - Purifying Flames
+508 - Quas
+509 - Queen_of_Pain
+510 - Quill Spray
+511 - Rage
+512 - Rain of Destiny
+513 - Rampage
+514 - Ransack
+515 - Ravage
+516 - Razor
+517 - Reactive Armor
+518 - Reactive Tazer
+519 - Reality Rift
+520 - Reality
+521 - Reaper's Scythe
+522 - Rearm
+523 - Rebound
+524 - Recall
+525 - Reel In
+526 - Reflection
+527 - Refraction
+528 - Reincarnation
+529 - Release Illuminate (Spirit Form)
+530 - Release Illuminate
+531 - Release
+532 - Relocate
+533 - Requiem of Souls
+534 - Resonant Pulse
+535 - Retaliate
+536 - Return Astral Spirit
+537 - Return Chakram
+538 - Return Second Chakram
+539 - Return
+540 - Reverse Polarity
+541 - Reverse Time Walk
+542 - Revert Form
+543 - Riki
+544 - Rip Tide
+545 - Rock Throw
+546 - Rocket Barrage
+547 - Rocket Flare
+548 - Rolling Boulder
+549 - Rot
+550 - Rubick
+551 - Rupture
+552 - Sacred Arrow
+553 - Sadist
+554 - Sand Storm
+555 - Sand_King
+556 - Sanity's Eclipse
+557 - Savage Roar
+558 - Scatterblast
+559 - Scorched Earth
+560 - Scream of Pain
+561 - Scurry
+562 - Searing Chains
+563 - Second Chakram
+564 - Shackles
+565 - Shackleshot
+566 - Shadow Poison Release
+567 - Shadow Poison
+568 - Shadow Realm
+569 - Shadow Step
+570 - Shadow Strike
+571 - Shadow Walk
+572 - Shadow Wave
+573 - Shadow Word
+574 - Shadowraze (Близко)
+575 - Shadowraze (Далеко)
+576 - Shadowraze (Средне)
+577 - Shadow_Demon
+578 - Shadow_Fiend
+579 - Shadow_Shaman
+580 - Shallow Grave
+581 - Shapeshift
+582 - Sharpshooter
+583 - Shield of the Scion
+584 - Shockwave
+585 - Shrapnel
+586 - Shukuchi
+587 - Shuriken Toss
+588 - Sidekick
+589 - Silence
+590 - Silencer
+591 - Silent as the Grave
+592 - Silken Bola
+593 - Sinister Gaze
+594 - Skeleton Walk
+595 - Skewer
+596 - Skywrath_Mage
+597 - Slardar
+598 - Sleeping Dart
+599 - Sleight of Fist
+600 - Slithereen Crush
+601 - Smoke Screen
+602 - Snapfire
+603 - Sniper
+604 - Snowball
+605 - Solar Bind
+606 - Solar Guardian Land
+607 - Solar Guardian
+608 - Song of the Siren End
+609 - Song of the Siren
+610 - Sonic Wave
+611 - Soul Assumption
+612 - Soul Rip
+613 - Soulbind
+614 - Spark Wraith
+615 - Spawn Spiderite
+616 - Spawn Spiderlings
+617 - Spear of Mars
+618 - Spectral Dagger
+619 - Spectre
+620 - Spell Steal
+621 - Spiked Carapace
+622 - Spin Web
+623 - Spinner's Snare
+624 - Spirit Form
+625 - Spirit Lance
+626 - Spirit Link
+627 - Spirit Siphon
+628 - Spirits In
+629 - Spirits Out
+630 - Spirits
+631 - Spirit_Breaker
+632 - Spit Out
+633 - Splinter Blast
+634 - Split Earth
+635 - Split Shot
+636 - Spring Early
+637 - Sproink
+638 - Sprout
+639 - Stampede
+640 - Starbreaker
+641 - Starstorm
+642 - Static Link
+643 - Static Remnant
+644 - Static Storm
+645 - Sticky Bomb
+646 - Sticky Napalm
+647 - Stifling Dagger
+648 - Stone Form
+649 - Stone Gaze
+650 - Stone Remnant
+651 - Stop Freezing Field
+652 - Stop Icarus Dive
+653 - Stop Sun Ray
+654 - Storm Hammer
+655 - Storm Surge
+656 - Storm_Spirit
+657 - Strafe
+658 - Stroke of Fate
+659 - Summon Familiars
+660 - Summon Spirit Bear
+661 - Summon Wolves
+662 - Sun Ray
+663 - Sun Strike
+664 - Sunder
+665 - Supernova
+666 - Surge
+667 - Sven
+668 - Swiftslash
+669 - Tag Team
+670 - Take Aim
+671 - Tar Bomb
+672 - Techies
+673 - Telekinesis Land (Aghanim's Shard)
+674 - Telekinesis Land
+675 - Telekinesis
+676 - Teleportation
+677 - Tempest Double
+678 - Templar_Assassin
+679 - Terror Wave
+680 - Terrorblade
+681 - Terrorize
+682 - Tether
+683 - The Calling
+684 - The Swarm
+685 - Thirst
+686 - Thunder Clap
+687 - Thunder Strike
+688 - Thundergod's Wrath
+689 - Tidal Wave
+690 - Tidebringer
+691 - Tidehunter
+692 - Timber Chain
+693 - Timbersaw
+694 - Time Dilation
+695 - Time Lapse
+696 - Time Lock
+697 - Time Walk
+698 - Tinker
+699 - Tiny
+700 - Toggle Movement
+701 - Tombstone
+702 - Tornado
+703 - Torrent Storm
+704 - Torrent
+705 - Toss
+706 - Track
+707 - Trample
+708 - Trap
+709 - Treant_Protector
+710 - Tree Dance
+711 - Tree Grab
+712 - Tree Throw
+713 - Tree Volley
+714 - Tricks of the Trade
+715 - Troll_Warlord
+716 - True Form
+717 - Tusk
+718 - Unburrow
+719 - Underlord
+720 - Undying
+721 - Unleash
+722 - Unrefined Fireblast
+723 - Unstable Concoction Throw
+724 - Unstable Concoction
+725 - Untouchable
+726 - Upheaval
+727 - Uproar
+728 - Ursa
+729 - Vacuum
+730 - Vampiric Spirit
+731 - Vendetta
+732 - Vengeance Aura
+733 - Vengeful_Spirit
+734 - Venomancer
+735 - Venomous Gale
+736 - Viper Strike
+737 - Viper
+738 - Visage
+739 - Viscous Nasal Goo
+740 - Void
+741 - Void_Spirit
+742 - Voodoo Restoration
+743 - Voodoo Switcheroo
+744 - Wall of Replica
+745 - Walrus Kick
+746 - Walrus PUNCH!
+747 - Waning Rift
+748 - Warcry
+749 - Warlock
+750 - Warp Flare
+751 - Warpath
+752 - Wave of Terror
+753 - Waveform
+754 - Weaver
+755 - Wex
+756 - Whirling Axes (ближний бой)
+757 - Whirling Axes (дальний бой)
+758 - Whirling Death
+759 - Wild Axes
+760 - Will-O-Wisp
+761 - Wind Walk
+762 - Windranger
+763 - Windrun
+764 - Winter's Curse
+765 - Winter_Wyvern
+766 - Witch_Doctor
+767 - Wolf Bite
+768 - Wraithfire Blast
+769 - Wraith_King
+770 - Wukong's Command
+771 - X Marks the Spot
+772 - Zeus
+773 - Барахольщик
+774 - Воскрешение
+775 - Выжигание маны
+776 - Копия
+777 - Невосприимчивость к магии
+778 - Прервать Primal Split
+779 - Синтез Aghanim's Scepter
+780 - Способность жертвы 1
+781 - Способность жертвы 2
+782 - Существо невосприимчиво к эффектам.
+783 - Украденная способность 1
+784 - Украденная способность 2

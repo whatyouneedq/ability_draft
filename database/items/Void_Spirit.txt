@@ -1,0 +1,3 @@
+tag: Void_Spirit
+name: Void Spirit
+title: «Friend or foe, in the wake of the confluence, you will follow where I lead.»

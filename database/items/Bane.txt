@@ -1,0 +1,3 @@
+tag: Bane
+name: Bane
+title: «I dreamt a field of war...and woke to find myself upon it.»

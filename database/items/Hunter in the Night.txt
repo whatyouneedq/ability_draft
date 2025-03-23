@@ -1,0 +1,3 @@
+tag: Hunter in the Night
+name: Hunter in the Night
+title: Ночью герой оказывается в своей стихии: он атакует и передвигается увеличенной скоростью.

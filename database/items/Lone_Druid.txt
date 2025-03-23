@@ -1,0 +1,3 @@
+tag: Lone_Druid
+name: Lone Druid
+title: «I wonder what awaits me at the end of everything…»

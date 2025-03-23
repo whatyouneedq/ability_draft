@@ -1,0 +1,3 @@
+tag: Ring_of_Health
+name: Ring of Health
+title: Блестящее кольцо, найденное под трупом толстого полурослика.

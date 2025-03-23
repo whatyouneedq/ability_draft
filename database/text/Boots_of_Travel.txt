@@ -1,0 +1,3 @@
+tag: Boots_of_Travel
+name: Boots of Travel
+title: Крылатые сапоги, дающие вездесущность.

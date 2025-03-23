@@ -1,0 +1,3 @@
+tag: Enigma
+name: Enigma
+title: «Сознание есть форма.»
